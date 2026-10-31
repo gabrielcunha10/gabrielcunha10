@@ -80,7 +80,33 @@ Construção de uma solução completa de engenharia e análise de dados para o 
 
 ---
 
+### Análise da Aplicação da LGPD em Projetos de Software no Contexto Acadêmico
+
+[Repositório no GitHub](https://github.com/gabrielcunha10/analise-lgpd-software-unipe) | [Artigo em PDF](https://github.com/gabrielcunha10/analise-lgpd-software-unipe/blob/main/docs/analise_da_aplicacao_da_lgpd_em_projetos_de_software_no_contexto_academico.pdf)
+
+Artigo científico e estudo de caso desenvolvido no contexto da **Fábrica de Software (UNIPÊ)** — projeto de extensão que atua como empresa-laboratório no desenvolvimento de soluções reais para órgãos públicos — com o objetivo de analisar como as diretrizes da **Lei Geral de Proteção de Dados (LGPD — Lei nº 13.709/2018)** são aplicadas na prática durante o desenvolvimento de software.
+
+A pesquisa utilizou uma abordagem **quali-quantitativa**, de caráter exploratório e descritivo, por meio de questionários estruturados em **escala Likert (1 a 5)** respondidos por **31 participantes** (atuantes em Back-end, Front-end e Análise de Dados), avaliando três dimensões: aplicação da LGPD nos projetos, dificuldades na implementação e práticas de privacidade e proteção de dados.
+
+**Principais etapas e resultados da pesquisa:**
+
+* Revisão de literatura e referencial teórico sobre LGPD, segurança da informação e conformidade no ciclo de vida de software
+* Coleta, tabulação e análise descritiva dos dados de 31 participantes vinculados a projetos reais de desenvolvimento
+* Análise quantitativa estruturada em três dimensões (Média Geral Likert: **3,7 / 5**):
+  * **Aplicação da LGPD nos Projetos (Média 3,5 / 5):** percepção moderada de presença da legislação e discussões ativas sobre privacidade durante o desenvolvimento
+  * **Dificuldades na Aplicação (Média 3,4 / 5):** mapeamento dos desafios práticos no tratamento de dados de usuários e na adaptação de processos
+  * **Práticas de Privacidade e Proteção de Dados (Média 4,2 / 5):** avaliação positiva das práticas técnicas adotadas, com destaque para controle de acesso e segurança da informação
+* Representação visual da distribuição das respostas na escala Likert por meio de tabelas e gráficos de barras empilhadas
+* Redação do artigo científico no formato da **SBC (Sociedade Brasileira de Computação)** e estruturação de apresentação executiva
+
+**Destaque do projeto:**
+Articulação entre Engenharia de Software, análise de dados estatística, segurança da informação e governança em LGPD para avaliar, com base em evidências empíricas, a maturidade das práticas de proteção de dados e controle de acesso em ambiente real de desenvolvimento.
+
+---
+
 ### Desafio Final Workshop 2026.1 — Fábrica de Software
+
+[Repositório no GitHub](https://github.com/gabrielcunha10/Desafio_Final_WKS_26.1)
 
 Projeto desenvolvido no Desafio Final do Workshop 2026.1 da Fábrica de Software, simulando um fluxo real de desenvolvimento de uma solução baseada em dados.
 
@@ -123,39 +149,6 @@ Projeto avaliado com **nota máxima**, demonstrando domínio das etapas proposta
 
 **Destaque do projeto:**
 Integração de diferentes etapas de um projeto de dados, desde a modelagem e estruturação do banco até a análise, aplicação de Machine Learning e visualização dos resultados em dashboard.
-
----
-
-### Barbearia Paladinos
-
-Sistema web desenvolvido em PHP para auxiliar na organização dos agendamentos e atendimentos da Barbearia Paladinos.
-
-O projeto foi desenvolvido como parte de uma ação extensionista, a partir da identificação de uma necessidade real da barbearia: melhorar o controle de horários, reduzir conflitos de agendamento e facilitar o atendimento aos clientes. Antes da proposta, os agendamentos eram realizados principalmente por WhatsApp e ligações, o que dificultava o gerenciamento da agenda.
-
-**Principais funcionalidades:**
-
-* Cadastro e login de clientes
-* Cadastro de barbeiros e serviços
-* Agendamento de horários
-* Controle de horários disponíveis e reservados
-* Painel administrativo
-* Gerenciamento de clientes, barbeiros, serviços e agendamentos
-* Página de fale conosco
-* Mensagem de confirmação após o agendamento
-* Interface responsiva
-* Banco de dados MySQL
-
-**Tecnologias utilizadas:**
-
-<div>
-  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap" />
-</div>
-
-**Destaque do projeto:**
-Aplicação prática de desenvolvimento web para resolver uma necessidade real de organização em um pequeno negócio, relacionando tecnologia, extensão universitária e melhoria da rotina de trabalho.
-
-**ODS relacionado:**
-ODS 8 — Trabalho decente e crescimento econômico.
 
 ---
 
